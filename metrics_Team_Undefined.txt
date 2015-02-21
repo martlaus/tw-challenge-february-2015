@@ -1,0 +1,10 @@
+How many people proceed with the payment when they reach the registration/payment page?
+	-We count how many people go through with the payment process
+	-Follow the payment process and determine if and when the users quit the payment process, so we could improve the payment flow.
+How many users come back, after making an account and buying?
+	-Count the time users return to the site, purchase again etc.
+What is the average duration of the payment process?
+	-We measure the time it takes to pay with our system from clicking buy now in the user shopping cart to the purchase success page.
+Which authenticating method is mostly preferred by our users?
+	-We will do A/B testing. When registering, half of the costumers will see a phone authetication field and the other half will see a face recognition field.
+	When they come back, to pay for a new order they will be prompted to authenticate with a password or face/phone solution.  
